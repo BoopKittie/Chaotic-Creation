@@ -5,7 +5,7 @@
   "health": 5120,
   "size": 4,
 	"requirements": [
-		{ "item": "phase-alloy", "amount": 245 }
+		{ "item": "phase-fabric", "amount": 245 }
 	],
   "category": "defense",
   "research": "immense-phase-wall"
