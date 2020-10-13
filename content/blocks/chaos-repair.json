@@ -2,6 +2,7 @@
     "type": "RepairPoint",
     "name": "Chaos Repair Station",
     "description": "A better version of the repair point. Has a longer range and heals faster.",
+    "health": 2147483647,
     "size": 1,
     "hasPower": true,
     "hasLiquids": false,

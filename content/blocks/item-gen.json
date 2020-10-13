@@ -1,0 +1,11 @@
+{
+	"type": "ItemSource",
+    "name": "Chaotic Item Generator",
+    "health": 2147483647,
+	"description": "Generates free materials.",
+	"requirements": [
+		{ "item": "chaos-fragment", "amount": 1 }
+	],
+	"category":"distribution",
+	"alwaysUnlocked": "true"
+}

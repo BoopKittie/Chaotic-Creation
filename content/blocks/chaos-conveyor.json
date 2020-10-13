@@ -1,11 +1,12 @@
 {
 	"type": "Conveyor",
 	"name": "Hackusated Conveyor",
+	"health": 2147483647,
 	"description": "Transports items as fast as it can.",
 	"requirements": [
 		{ "item": "chaos-fragment", "amount": 1 }
 	],
 	"category":"distribution",
 	"speed":2147483647,
-	"research":"free-item"
+	"alwaysUnlocked": "true"
 }

@@ -3,10 +3,11 @@
   "type": "DeflectorWall",
   "maxDamageDeflect": 2147483647,
   "health": 2147483647,
+  "insulated": true,
   "size": 2,
 	"requirements": [
 		{ "item": "chaos-fragment", "amount": 1 }
 	],
   "category": "defense",
-  "research": "copper-wall"
+	"alwaysUnlocked": "true"
 }

@@ -2,6 +2,7 @@
   "type": "GenericSmelter",
   "name": "Chaos Smelter",
   "description": "Copper is now overpowered.",
+  "health": 2147483647,
   "size": 2,
   "hasItems": true,
   "craftTime": 0.1,
@@ -19,7 +20,7 @@
 		{ "item": "copper", "amount": 100 }
 	],
   "category": "crafting",
-  "research": "alloy-smelter",
+	"alwaysUnlocked": "true",
   "idleSound": "respawning",
   "idleSoundVolume": 0.5,
 	"outputItem": {"item": "chaos-fragment", "amount": 2}
