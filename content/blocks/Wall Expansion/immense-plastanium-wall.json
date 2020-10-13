@@ -1,0 +1,12 @@
+{
+  "name": "Immense Plastanium Wall",
+  "type": "Wall",
+  "health": 6840,
+  "size": 3,
+  "insulated": true,
+	"requirements": [
+		{ "item": "plastanium", "amount": 125 }
+	],
+  "category": "defense",
+  "research": "plastanium-wall-large"
+}

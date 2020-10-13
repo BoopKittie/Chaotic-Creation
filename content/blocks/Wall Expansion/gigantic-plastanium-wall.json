@@ -1,0 +1,12 @@
+{
+  "name": "Gigantic Plastanium Wall",
+  "type": "Wall",
+  "health": 12160,
+  "insulated": true,
+  "size": 4,
+	"requirements": [
+		{ "item": "plastanium", "amount": 245 }
+	],
+  "category": "defense",
+  "research": "immense-plastanium-wall"
+}

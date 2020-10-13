@@ -1,0 +1,11 @@
+{
+  "name": "Immense Thorium Wall",
+  "type": "Wall",
+  "health": 7200,
+  "size": 3,
+	"requirements": [
+		{ "item": "thorium", "amount": 125 }
+	],
+  "category": "defense",
+  "research": "thorium-wall-large"
+}

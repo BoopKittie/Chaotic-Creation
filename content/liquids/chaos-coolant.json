@@ -1,0 +1,8 @@
+{
+	"name": "Chaos Coolant",
+	"temperature": 0,
+	"heatCapacity": 2147483647,
+	"effect": "freezing",
+	"color": "000000",
+	"lightColor": "4B4B4B"
+}

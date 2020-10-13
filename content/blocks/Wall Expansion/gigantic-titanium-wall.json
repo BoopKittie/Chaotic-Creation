@@ -1,0 +1,11 @@
+{
+  "name": "Gigantic Titanium Wall",
+  "type": "Wall",
+  "health": 7060,
+  "size": 4,
+	"requirements": [
+		{ "item": "titanium", "amount": 245 }
+	],
+  "category": "defense",
+  "research": "immense-titanium-wall"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Immense Surge Wall",
+  "type": "SurgeWall",
+  "lightningChance": 0.22,
+  "lightningDamage": 21,
+  "lightningLength": 20,
+  "health": 8280,
+  "size": 3,
+	"requirements": [
+		{ "item": "surge-alloy", "amount": 125 }
+	],
+  "category": "defense",
+  "research": "surge-wall-large"
+}

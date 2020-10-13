@@ -1,0 +1,12 @@
+{
+  "name": "Immense Phase Wall",
+  "type": "DeflectorWall",
+  "maxDamageDeflect": 17,
+  "health": 5400,
+  "size": 3,
+	"requirements": [
+		{ "item": "phase-alloy", "amount": 125 }
+	],
+  "category": "defense",
+  "research": "phase-wall-large"
+}

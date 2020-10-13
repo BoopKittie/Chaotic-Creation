@@ -1,0 +1,10 @@
+{
+	"type": "material",
+	"name": "Chaos Fragment",
+	"description": "A fragment of pure chaos.",
+	"cost": 1,
+	"flammability": 2147483647,
+	"radioactivity": 2147483647,
+	"explosiveness": 2147483647,
+	"color": "000000"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "GenericSmelter",
+  "name": "Chaos Smelter",
+  "description": "Copper is now overpowered.",
+  "size": 2,
+  "hasItems": true,
+  "craftTime": 0.1,
+  "itemCapacity": 200,
+  "updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 1,
+		"items": {
+			"items": [
+				{ "item": "copper", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 100 }
+	],
+  "category": "crafting",
+  "research": "alloy-smelter",
+  "idleSound": "respawning",
+  "idleSoundVolume": 0.5,
+	"outputItem": {"item": "chaos-fragment", "amount": 2}
+}

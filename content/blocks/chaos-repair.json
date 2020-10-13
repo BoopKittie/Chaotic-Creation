@@ -1,0 +1,17 @@
+{
+    "type": "RepairPoint",
+    "name": "Chaos Repair Station",
+    "description": "A better version of the repair point. Has a longer range and heals faster.",
+    "size": 1,
+    "hasPower": true,
+    "hasLiquids": false,
+    "hasItems": false,
+    "powerUse": 1,
+	"requirements": [
+		{ "item": "chaos-fragment", "amount": 1 }
+	],
+    "repairRadius": 2147483647,
+    "repairSpeed": 2147483647,
+    "category": "units",
+    "alwaysUnlocked": true
+}

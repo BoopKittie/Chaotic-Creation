@@ -1,0 +1,12 @@
+{
+	"name": "Core",
+	"description": "A buildable OP core",
+	"type": "CoreBlock",
+	"health": 2147483647,
+	"size": 3,
+	"itemCapacity": 2147483647,
+	"requirements": [],
+	"stateRules": "infiniteResources",
+	"alwaysUnlocked": "true",
+	"category": "effect"
+}

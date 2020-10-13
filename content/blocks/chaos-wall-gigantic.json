@@ -1,0 +1,12 @@
+{
+  "name": "Chaos Wall",
+  "type": "DeflectorWall",
+  "maxDamageDeflect": 2147483647,
+  "health": 2147483647,
+  "size": 4,
+	"requirements": [
+		{ "item": "chaos-fragment", "amount": 1 }
+	],
+  "category": "defense",
+  "research": "copper-wall"
+}
