@@ -5,7 +5,9 @@
 	"health": 2147483647,
 	"size": 3,
 	"itemCapacity": 2147483647,
-	"requirements": [],
+	"requirements": [
+		{ "item": "chaos-fragment", "amount": 1 }
+	],
 	"stateRules": "infiniteResources",
 	"alwaysUnlocked": "true",
 	"category": "effect"

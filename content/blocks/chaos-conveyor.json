@@ -1,0 +1,11 @@
+{
+	"type": "Conveyor",
+	"name": "Hackusated Conveyor",
+	"description": "Transports items as fast as it can.",
+	"requirements": [
+		{ "item": "chaos-fragment", "amount": 1 }
+	],
+	"category":"distribution",
+	"speed":2147483647,
+	"research":"free-item"
+}

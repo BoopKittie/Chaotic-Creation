@@ -10,7 +10,7 @@
 	"requirements": [
 		{ "item": "chaos-fragment", "amount": 1 }
 	],
-    "repairRadius": 2147483647,
+    "repairRadius": 100,
     "repairSpeed": 2147483647,
     "category": "units",
     "alwaysUnlocked": true
