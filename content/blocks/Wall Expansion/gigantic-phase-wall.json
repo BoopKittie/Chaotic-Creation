@@ -1,6 +1,6 @@
 {
   "name": "Gigantic Phase Wall",
-  "type": "DeflectorWall",
+  "type": "Wall",
   "maxDamageDeflect": 15,
   "health": 5120,
   "size": 4,

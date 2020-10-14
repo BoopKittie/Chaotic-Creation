@@ -1,6 +1,6 @@
 {
   "name": "Immense Surge Wall",
-  "type": "SurgeWall",
+  "type": "Wall",
   "lightningChance": 0.22,
   "lightningDamage": 21,
   "lightningLength": 20,

@@ -1,6 +1,6 @@
 {
-  "name": "Chaos Wall",
-  "type": "DeflectorWall",
+  "name": "Large Chaos Wall",
+  "type": "Wall",
   "maxDamageDeflect": 2147483647,
   "health": 2147483647,
   "insulated": true,
