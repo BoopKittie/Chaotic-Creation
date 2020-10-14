@@ -6,5 +6,12 @@
 	"flammability": 2147483647,
 	"radioactivity": 2147483647,
 	"explosiveness": 2147483647,
-	"color": "000000"
+	"color": "000000",
+	"research": {
+		"parent": "titanium",
+		"requirements":
+		[
+			{"item": "copper", "amount": 1000}
+		]
+	}
 }
