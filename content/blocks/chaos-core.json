@@ -9,6 +9,6 @@
 		{ "item": "chaos-fragment", "amount": 1 }
 	],
 	"stateRules": "infiniteResources",
-	"alwaysUnlocked": "true",
+	"research": "core-shard",
 	"category": "effect"
 }

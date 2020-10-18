@@ -6,7 +6,7 @@
 	"color": "000000",
 	"lightColor": "4B4B4B",
 	"research": {
-		"parent": "titanium",
+		"parent": "copper",
 		"requirements":
 		[
 			{"item": "copper", "amount": 1000}
