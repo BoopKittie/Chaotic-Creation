@@ -8,10 +8,10 @@
 	"explosiveness": 2147483647,
 	"color": "000000",
 	"research": {
-		"parent": "copper",
+		"parent": "coal",
 		"requirements":
 		[
-			{"item": "copper", "amount": 1000}
+			{"item": "coal", "amount": 1000}
 		]
 	}
 }

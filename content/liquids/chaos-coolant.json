@@ -6,10 +6,10 @@
 	"color": "000000",
 	"lightColor": "4B4B4B",
 	"research": {
-		"parent": "copper",
+		"parent": "coal",
 		"requirements":
 		[
-			{"item": "copper", "amount": 1000}
+			{"item": "coal", "amount": 1000}
 		]
 	}
 }
