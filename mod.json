@@ -1,8 +1,12 @@
 {
     "name": "chaotic-creation",
+<<<<<<< Updated upstream
     "displayName": "[acid]Chaotic[purple] Creation",
+=======
+    "displayName": "[purple]Chaotic[acid] Creation",
+>>>>>>> Stashed changes
     "author": "BoopKittie",
-    "description": "[black]This is now chaos.",
+    "description": "[acid]This is now chaos.",
     "version": "2.0",
     "minGameVersion": "106"
 }
