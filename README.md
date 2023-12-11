@@ -1,2 +1,2 @@
 # Chaotic Creation
- A Mindustry mod to make the game unfair in your advantage.
+  - This is on hold until such a point where I resume playing the game.
